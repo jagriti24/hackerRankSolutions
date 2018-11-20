@@ -1,3 +1,5 @@
+package gfg;
+
 import java.util.Stack;
 
 public class ExpressionBalance {
